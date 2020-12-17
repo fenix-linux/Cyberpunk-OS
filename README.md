@@ -8,3 +8,8 @@ Terminal: <br>
 -Bpytop https://www.youtube.com/watch?v=z2RORwTmcOE&feature=emb_title <br>
 -Conky themes: <br>
 https://twitter.com/fenixlinuxos/status/1329045943845605379?ref_src=twsrc%5Etfw <br>
+-Inspiration: 
+-https://www.omgubuntu.co.uk/2020/01/cyberpunk-kubuntu-desktop <br>
+-https://www.reddit.com/r/unixporn/comments/eor4up/plasma_cyberpunk_desktop/?ref=share&ref_source=embed&utm_content=title&utm_medium=post_embed&utm_name=e0651281452842c39015d4542e600fd6&utm_source=embedly&utm_term=eor4up 
+-https://github.com/Roboron3042/Cyberpunk-Neon
+-https://github.com/UtkarshKunwar/K-DE-Cyberpunk-Neon
